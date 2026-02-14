@@ -1,1 +1,1 @@
-Esta será uma demonstração da integração entre GIT e Fabric
+Esta Será uma demonstração entre Git e Fabric
